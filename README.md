@@ -1,0 +1,1 @@
+Aplicación de escritorio desarrollada en C# que implementa el juego N en raya para dos jugadores. Permite seleccionar dinámicamente el tamaño del tablero antes de iniciar la partida. El proyecto incluye la lógica del juego, validación de jugadas y detección de condiciones de victoria.
